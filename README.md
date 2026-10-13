@@ -1,5 +1,7 @@
 # P6 Optimisez la gestion des données d'une boutique avec Python
 
+L’entreprise et les données sont fictives
+
 ## Contexte
 
 BottleNeck est un marchand de vin. Ses données sont réparties entre plusieurs outils (ERP, site web, table de liaison) dont les références ne correspondent pas.
